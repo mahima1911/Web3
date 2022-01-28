@@ -1,13 +1,8 @@
-## Running React on Repl.it
+### Web3
+#A web3 a client website that will let people easily mint NFTs from our collection
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+##Connect your **Metamask** wallet and link it ti the **Rinkeby Test Network**.
+##Go ahead and mint your **NFTs** by clicking the button and view it on your **OpenSea** account!
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+###<a href = "https://nft-starter-project.mahima1911.repl.co/">NFT Hero Names</a>
 
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
