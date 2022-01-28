@@ -10,6 +10,33 @@
               src="src/assets/website.png"
               alt=""
               height="300"
-              width="500"
+              width="550"
             />
 
+<img
+              src="src/assets/popup.png"
+              alt=""
+              height="300"
+              width="550"
+            />
+           
+<img
+              src="src/assets/metamask.png"
+              alt=""
+              height="300"
+              width="550"
+            />
+            
+<img
+              src="src/assets/opensea.png"
+              alt=""
+              height="300"
+              width="550"
+            />
+            
+<img
+              src="src/assets/nft.png"
+              alt=""
+              height="300"
+              width="550"
+            />
