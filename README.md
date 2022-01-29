@@ -6,6 +6,7 @@
 
 ### <a href = "https://nft-starter-project.mahima1911.repl.co/">NFT Hero Names</a>
 
+The smart contract deployed on the blockchain for creating NFTs is <a href ="https://github.com/mahima1911/SmartContract"> here </a>.
 <img
               src="src/assets/website.png"
               alt=""
